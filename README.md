@@ -8,3 +8,5 @@ The intended audience to this system is user who is already able to pronounce Ti
 If you find this software useful and would like to support the work behind it, donations are welcome.
 
 🙏 Support the Drikung Kangyur Labyrinth project: Drikung Kangyur Labyrinth – Sacred Walking Meditation in Bhutan (https://drikungkangyurlabyrinth.org/donate) It is a wonderful project that includes carvings of scriptures, meditation halls, accomodations and facilities that deepens one's understanding of Buddhism.
+
+Dr Yeshe Karma from Bhutan is a co-creator of this system. He will be helping in refining the system particularly the words list in future.
